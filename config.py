@@ -24,7 +24,7 @@ GEMINI_MODEL = "gemini-2.5-flash" # Or "gemini-1.5-pro-latest", etc.
 # --- !!! WARNING: Hardcoding API keys is insecure for shared code !!! ---
 # --- !!! Only use this method for temporary local testing.      !!! ---
 # --- !!! Replace placeholder with your actual key for testing.   !!! ---
-GEMINI_API_KEY = "AIzaSyCHhYEh6puofY4gnzKpdddwCwKie7glQQk" # <<< PASTE YOUR ACTUAL GOOGLE API KEY HERE
+GEMINI_API_KEY = "" # <<< PASTE YOUR ACTUAL GOOGLE API KEY HERE
 
 # --- LLM Initialization ---
 llm_standard = None
